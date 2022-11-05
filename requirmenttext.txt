@@ -42,3 +42,4 @@ sqlparse==0.4.3
 uritemplate==4.1.1
 urllib3==1.26.12
 zeep==4.1.0
+gunicorn==19.7.1
