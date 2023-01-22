@@ -1,8 +1,0 @@
-{
-    "name": "ecommerce",
-    "description": "ecommerce backend",
-    "logo":"https://pbs.twimg.com/profile_images/744539950226542592/dqEyA1KF_400x400.jpg",
-    "keywords": ["python"],
-    "repository": "https://github.com/monoxofighter/heroku-xray-ws-server",
-    "stack": "container"
-}
