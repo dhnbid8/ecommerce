@@ -1,4 +1,5 @@
 db.sqlite3
 media/
 */__pycache__/*
-*/migrations/*
+migrations/*
+*/__pycache__/*
